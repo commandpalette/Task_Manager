@@ -3,3 +3,9 @@
 // }
 
 // File responsible for the sub function running on the main page. 
+
+
+canvas = document.getElementById('canvas_div')
+canvas.onload = function(){
+    alert("i am loaded");
+}
