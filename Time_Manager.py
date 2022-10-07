@@ -10,3 +10,12 @@
 #     return dummy_parm
 
 # eel.start('index.html' , size=(20,20))
+
+import eel
+
+eel.init('Front_End')
+
+
+
+eel.start('index.html' , size=(200,200))
+# This is the skeleton code for starting the application
