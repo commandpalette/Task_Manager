@@ -15,6 +15,10 @@ import eel
 
 eel.init('Front_End')
 
+# Dummy Function it will be changed later
+@eel.expose
+def dumm_function():
+    return "Hello World"
 
 
 eel.start('index.html' , size=(200,200))

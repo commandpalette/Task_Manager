@@ -3,5 +3,3 @@
 // }
 
 // File responsible for the sub function running on the main page. 
-
-
